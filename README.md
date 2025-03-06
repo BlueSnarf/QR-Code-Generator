@@ -4,4 +4,5 @@ You can edit the code to have it save under whatever file name you want. And by 
 
 Here's an example of the output (go ahead, scan it, I dare you)
 
-![totally_safe](https://github.com/user-attachments/assets/bf9de516-5872-4e76-897b-c49874d36fa6)
+
+![foolproofme](https://github.com/user-attachments/assets/5fc95aff-a52d-41f0-a8b0-317acb68a971)
